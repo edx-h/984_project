@@ -1,0 +1,2 @@
+1. Configure and build the project using `cmake` command and CMakeLists.txt
+2. Suppose your compiled program is stored in ./build, named as cuda. Then execute command `./build/cuda ./wiki_top_1000_articles.txt`
