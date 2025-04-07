@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/compressor2.dir/comp/compressor2.cu.o -o compressor2  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib"

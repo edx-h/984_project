@@ -1,0 +1,127 @@
+Windows 10 is a major release of the Windows NT operating system developed by Microsoft. Microsoft described Windows 10 as an "operating system as a service" that would receive ongoing updates to its features and functionality, augmented with the ability for enterprise environments to receive non-critical updates at a slower pace or use long-term support milestones that will only receive critical updates, such as security patches, over their five-year lifespan of mainstream support. It was released in July 2015. 
+
+
+== Channels ==
+
+Windows 10 Insider Preview builds are delivered to Insiders in three different channels (previously "rings"). Insiders in the Dev Channel (previously Fast ring) receive updates prior to those in the Beta Channel (previously Slow ring), but might experience more bugs and other issues. Insiders in the Release Preview Channel (previously Release Preview ring) do not receive updates until the version is almost available to the public, but are comparatively more stable.
+
+
+== PC version history ==
+Mainstream builds of Windows 10 are labeled "YYMM", with YY representing the two-digit year and MM representing the month of planned release (for example, version 1507 refers to builds which initially released in July 2015). Starting with version 20H2, Windows 10 release nomenclature changed from the year and month pattern to a year and half-year pattern (YYH1, YYH2).
+
+
+=== Version 1507 (original release) ===
+
+
+=== Version 1511 (November Update) ===
+
+The second stable build of Windows 10 is version 1511 (build number 10586), known as the November Update. It was codenamed "Threshold 2" (TH2) during development. This version was distributed via Windows Update on November 12, 2015. It contains various improvements to the operating system, its user interface, bundled services, as well as the introduction of Skype-based universal messaging apps, and the Windows Store for Business and Windows Update for Business features.
+On November 21, 2015, the November Update was temporarily pulled from public distribution. The upgrade was re-instated on November 24, 2015, with Microsoft stating that the removal was due to a bug that caused privacy and data collection settings to be reset to defaults when installing the upgrade.
+
+
+=== Version 1607 (Anniversary Update) ===
+
+The third stable build of Windows 10 is called version 1607, known as the Anniversary Update. It was codenamed "Redstone 1" (RS1) during development. This version was released on August 2, 2016, a little over one year after the first stable release of Windows 10. The Anniversary Update was originally thought to have been set aside for two feature updates. While both were originally to be released in 2016, the second was moved into 2017 so that it would be released in concert with that year's wave of Microsoft first-party devices.
+The Anniversary Update introduces new features such as the Windows Ink platform, which eases the ability to add stylus input support to Universal Windows Platform apps and provides a new "Ink Workspace" area with links to pen-oriented apps and features, enhancements to Cortana's proactive functionality, a dark user interface theme mode, a new version of Skype designed to work with the Universal Windows Platform, improvements to Universal Windows Platform intended for video games, and offline scanning using Windows Defender. The Anniversary Update also supports Windows Subsystem for Linux, a new component that provides an environment for running Linux-compatible binary software in an Ubuntu-based user mode environment.
+On new installations of Windows 10 on systems with Secure Boot enabled, all kernel-mode drivers issued after July 29, 2015, must be digitally signed with an Extended Validation Certificate issued by Microsoft.
+This version is the basis for "LTSB 2016", the first upgrade to the LTSB since Windows 10's release. The first LTSB release, based on RTM (version 1507), has been retroactively named "LTSB 2015".
+
+
+=== Version 1703 (Creators Update) ===
+
+The fourth stable build of Windows 10 is called version 1703, known as the Creators Update. It was codenamed "Redstone 2" (RS2) during development. This version was announced on October 26, 2016, and was released for general availability on April 11, 2017, and for manual installation via Windows 10 Upgrade Assistant and Media Creation Tool tools on April 5, 2017. This update primarily focuses on content creation, productivity, and gaming features—with a particular focus on virtual and augmented reality (including HoloLens and virtual reality headsets) and on aiding the generation of three-dimensional content.
+It supports a new virtual reality workspace designed for use with headsets; Microsoft announced that several OEMs planned to release VR headsets designed for use with the Creators Update.
+Controls for the Game Bar and Game DVR feature have moved to the Settings app, while a new "Game Mode" option allows resources to be prioritized towards games. Integration with Microsoft acquisition Mixer (formerly Beam) was added for live streaming. The themes manager moved to Settings app, and custom accent colors are now possible. The new app Paint 3D allows users to produce artwork using 3D models; the app is designed to make 3D creation more accessible to mainstream users.
+Windows 10's privacy settings have more detailed explanations of data that the operating system may collect. Additionally, the "enhanced" level of telemetry collection was removed. Windows Update notifications may now be "snoozed" for a period of time, the "active hours" during which Windows will not try to install updates may now extend up to 18 hours in length, and updates may be paused for up to seven days. Windows Defender has been replaced by the universal app Windows Defender Security Center. Devices may optionally be configured to prevent use of software from outside of Microsoft Store, or warn before installation of apps from outside of Microsoft Store. "Dynamic Lock" allows a device to automatically lock if it is outside of the proximity of a designated Bluetooth device, such as a smartphone. A "Night Light" feature was added, which allows the user to change the color temperature of the display to the red part of the spectrum at specific times of day (similarly to the third-party software f.lux).
+
+
+=== Version 1709 (Fall Creators Update) ===
+
+The fifth stable build of Windows 10 is called version 1709, known as the Fall Creators Update. It was codenamed "Redstone 3" (RS3) during development. This version was released on October 17, 2017. Version 1709 introduces a new feature known as "My People", where shortcuts to "important" contacts can be displayed on the taskbar. Notifications involving these contacts appear above their respective pictures, and users can communicate with the contact via either Skype, e-mail, or text messaging (integrating with Android and Windows 10 Mobile devices). Support for additional services, including Xbox, Skype for Business, and third-party integration, are to be added in the future. Files can also be dragged directly to the contact's picture to share them. My People was originally announced for Creators Update, but was ultimately held over to the next release, and made its first public appearance in Build 16184 in late April 2017. A new "Files-on-Demand" feature for OneDrive serves as a partial replacement for the previous "placeholders" function.
+It also introduces a new security feature known as "controlled folder access", which can restrict the applications allowed to access specific folders. This feature is designed mainly to defend against file-encrypting ransomware. This is also the first release that introduces DCH drivers.
+
+
+=== Version 1803 (April 2018 Update) ===
+
+The sixth stable build of Windows 10 is called version 1803, known as the April 2018 Update. It was codenamed "Redstone 4" (RS4) during development. This version was released as a manual download on April 30, 2018, with a broad rollout on May 8, 2018. This update was originally meant to be released on April 10, but was delayed because of a bug which could increase chances of a "Blue Screen of Death" (Stop error).
+The most significant feature of this build is Timeline, which is displayed within Task View. It allows users to view a list of recently used documents and websites from supported applications ("activities"). When users consent to Microsoft data collection via Microsoft Graph, activities can also be synchronized from supported Android and iOS devices.
+
+
+=== Version 1809 (October 2018 Update) ===
+
+The seventh stable build of Windows 10 is called version 1809, known as the October 2018 Update. It was codenamed "Redstone 5" (RS5) during development. This version was released on October 2, 2018. Highlighted features on this build include updates to the clipboard function (including support for clipboard history and syncing with other devices), SwiftKey virtual keyboard, Snip & Sketch, and File Explorer supporting the dark color scheme mode.
+On October 6, 2018, the build was pulled by Microsoft following isolated reports of the update process deleting files from user directories. It was re-released to Windows Insider channel on October 9, with Microsoft citing a bug in OneDrive's Known Folder Redirection function as the culprit.
+On November 13, 2018, Microsoft resumed the rollout of 1809 for a small percentage of users.
+The long term servicing release, Windows 10 Enterprise 2019 LTSC, is based on this version and is equivalent in terms of features.
+
+
+=== Version 1903 (May 2019 Update) ===
+
+The eighth stable build of Windows 10, version 1903, codenamed "19H1", was released for general availability on May 21, 2019, after being on the Insider Release Preview branch since April 8, 2019. Because of new practices introduced after the problems affecting the 1809 update, Microsoft used an intentionally slower Windows Update rollout process.
+New features in the update include a redesigned search tool—separated from Cortana and oriented towards textual queries, a new "Light" theme (set as default on Windows 10 Home) using a white-colored taskbar with dark icons, the addition of symbols and kaomoji to the emoji input menu, the ability to "pause" system updates, automated "Recommended troubleshooting", integration with Google Chrome on Timeline via an extension, support for SMS-based authentication on accounts linked to Microsoft accounts, and the ability to run Windows desktop applications within the Windows Mixed Reality environment (previously restricted to universal apps and SteamVR only). A new feature on Pro, Education, and Enterprise known as Windows Sandbox allows users to run applications within a secured Hyper-V environment.
+A revamped version of Game Bar was released alongside 1903, which redesigns it into a larger overlay with a performance display, Xbox friends list and social functionality, and audio and streaming settings.
+
+
+=== Version 1909 (November 2019 Update) ===
+
+The ninth stable build of Windows 10, version 1909, codenamed "19H2", was released to the public on November 12, 2019, after being on the Insider Release Preview branch since August 26, 2019. Unlike previous updates, this one was released as a minor service update without major new features.
+
+
+=== Version 2004 (May 2020 Update) ===
+
+The tenth stable build of Windows 10, version 2004, codenamed "20H1", was released to the public on May 27, 2020, after being on the Insider Release Preview branch since April 16, 2020. New features included faster and easier access to Bluetooth settings and pairing, improved Kaomojis, renamable virtual desktops, DirectX 12 Ultimate, a chat-based UI for Cortana, greater integration with Android phones on the Your Phone app, Windows Subsystem for Linux 2 (WSL 2; WSL 2 includes a custom Linux kernel, unlike its predecessor), the ability to use Windows Hello without the need for a password, improved Windows Search with integration with File Explorer, a cloud download option to reset Windows, accessibility improvements, and the ability to view disk drive type and discrete graphics card temperatures in Task Manager.
+
+
+=== Version 20H2 (October 2020 Update) ===
+
+The eleventh stable build of Windows 10, version 20H2, was released to the public on October 20, 2020, after being on the Beta Channel since June 16, 2020. New features include new theme-aware tiles in the Start Menu, new features and improvements to Microsoft Edge (such as a price comparison tool, Alt+Tab ↹ integration for tab switching, and easy access to pinned tabs), a new out-of-box experience with more personalization for the taskbar, notifications improvements, improvements to tablet mode, improvements to Modern Device Management, and the move of the System tab in Control Panel to the About page in Settings. This is the first version of Windows 10 to include the new Chromium-based Edge browser by default.
+
+
+=== Version 21H1 (May 2021 Update) ===
+
+The twelfth stable build of Windows 10, version 21H1, was released to the public on May 18, 2021, after being on the Beta Channel since February 17, 2021. This update included multi-camera support for Windows Hello, a "News and Interests" feature on the taskbar, and performance improvements to Windows Defender Application Guard and WMI Group Policy Service.
+
+
+=== Version 21H2 (November 2021 Update) ===
+
+The thirteenth stable build of Windows 10, version 21H2, was released to the public on November 16, 2021, after being on the Beta Channel since July 15, 2021. This update included GPU compute support in the Windows Subsystem for Linux (WSL) and Azure IoT Edge for Linux on Windows (EFLOW) deployments, a new simplified passwordless deployment models for Windows Hello for Business, support for WPA3 Hash-to-Element (H2E) standards and a new highlights feature for Search on the taskbar.
+
+
+=== Version 22H2 (2022 Update) ===
+
+The thirteenth and final stable build of Windows 10, version 22H2, was released to the public on October 18, 2022, after being on the Release Preview Channel since July 28, 2022. This update re-introduced the search box on the taskbar and included Copilot in Windows, richer weather experience on the lock screen, additional quick status (such as sports, traffic and finance) on lock screen and a new Windows Spotlight desktop theme and new account manager experience on the Start menu.
+
+
+== Fast ring / Dev Channel ==
+
+
+=== Fast ring ===
+On December 16, 2019, Microsoft announced that Windows Insiders in the Fast ring will receive builds directly from the rs_prerelease branch, which are not matched to a specific Windows 10 release. The first build released under the new strategy, build 19536, was made available to Insiders on the same day.
+The mn_release branch was available from May 13, 2020, to June 17, 2020. The branch was mandatory for Insiders in the Fast ring.
+
+
+=== Dev Channel ===
+As of June 15, 2020, Microsoft has introduced the "channels" model to its Windows Insider Program, succeeding its "ring" model. All future builds starting from build 10.0.20150, therefore, would be released to Windows Insiders in the Dev Channel.
+The fe_release branch was available from October 29, 2020, to January 6, 2021. The branch was mandatory for Insiders until December 10. Afterward, Insiders could choose to move back to the rs_prerelease branch.
+The co_release branch was available from April 5 to June 14, 2021. The branch was mandatory for Insiders.
+As of June 28, 2021, the Dev Channel has transitioned to Windows 11.
+
+
+== Mobile version history ==
+
+
+== See also ==
+Windows Server 2016 version history
+Windows Server 2019
+Windows Phone version history
+Windows 10 Mobile version history
+Xbox OS version history
+Windows 11 version history
+
+
+== References ==
+
+
+== External links ==
+Windows release health
+Flight Hub

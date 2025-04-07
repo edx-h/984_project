@@ -1,0 +1,101 @@
+Opinion polling for the next United Kingdom general election is being carried out continually by various organisations to gauge voting intention. Results of such polls are displayed in this article. Most of the polling companies listed are members of the British Polling Council (BPC) and abide by its disclosure rules. The dates of these opinion polls range from the previous general election on 4 July 2024 to the present.
+The next general election must be held no later than 15 August 2029 under the Dissolution and Calling of Parliament Act 2022. The Act mandates that any Parliament automatically dissolves five years after it first met – unless it is dissolved earlier at the request of the prime minister – and polling day occurs no more than 25 working days later.
+
+
+== Graphical summary ==
+The chart below shows opinion polls conducted since the 2024 general election. The trend lines are local regressions (LOESS). The bar on the left represents the previous election, and the bar on the right represents the latest possible date of the next election.
+
+
+== Most recent polling by pollster ==
+This section collates the most recent opinion poll released by each pollster.
+
+
+== National poll results ==
+Most national opinion polls do not cover Northern Ireland, which has different major political parties from the rest of the United Kingdom. This distinction is made in the tables below in the area column, where "GB" means Great Britain (England, Scotland and Wales), and "UK" means the entire United Kingdom. Plaid Cymru only stand candidates in Wales and the Scottish National Party only stand candidates in Scotland. Due to rounding total figures might not add up to 100%.
+
+
+=== 2025 ===
+
+
+=== 2024 ===
+
+
+== Seat projections ==
+
+
+=== MRP polls ===
+
+
+=== POLARIS projections ===
+Political Analysis through Regional and Local Insights System (POLARIS) is a novel model created by J.L. Partners, using council by-elections to predict election outcomes.
+
+
+== Sub-national poll results ==
+
+
+=== Northern Ireland ===
+
+
+=== Scotland ===
+
+
+=== Wales ===
+
+
+=== English mayoral regions ===
+
+
+==== Cambridgeshire and Peterborough ====
+
+
+==== Greater Lincolnshire ====
+
+
+==== Hull and East Yorkshire ====
+
+
+==== London ====
+
+
+=== 100 most rural constituencies ===
+In November 2024, Survation conducted a survey of the 100 "most rural" constituencies.
+
+
+== Approval polling ==
+
+
+=== Leadership approval ===
+Various organisations have carried out opinion polling to gauge the opinions that voters hold towards political leaders. The polling companies listed are members of the British Polling Council (BPC) and abide by its disclosure rules.
+
+
+=== Party approval ===
+
+
+=== Preferred prime minister ===
+Some pollsters ask voters which of the party leaders they would prefer as prime minister.
+
+
+== Other polling ==
+
+
+=== Hypothetical polling ===
+
+
+==== Different Conservative Party leaders: Voting intention and seat projection ====
+For the 2024 Conservative Party leadership election, Electoral Calculus conducted a multilevel regression with poststratification (MRP) opinion poll on behalf of Jack Lewy of the Robert Jenrick campaign, asking the general public how they would vote if respectively Kemi Badenoch or Robert Jenrick were elected leader of the Conservatives.
+
+
+==== Hypothetical preferred Prime Minister polling ====
+
+
+== See also ==
+Opinion polling for the 2024 United Kingdom general election
+Leadership approval opinion polling for the 2024 United Kingdom general election
+Opinion polling for the next Scottish Parliament election
+Opinion polling for the next Senedd election
+
+
+== Notes ==
+
+
+== References ==

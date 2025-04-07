@@ -1,0 +1,63 @@
+2024 YR4 is an asteroid estimated to be 40 to 90 metres (130 to 300 ft) in diameter that is classified as an Apollo-type (Earth-crossing) near-Earth object. It was discovered by the Chilean station of the Asteroid Terrestrial-impact Last Alert System (ATLAS) on 27 December 2024. As of 10 February 2025, 2024 YR4 was rated as a 3 on the Torino scale, with a 1-in-48 (2.1%) chance of impacting Earth on 22 December 2032. NASA assigns a Palermo Technical Impact Hazard Scale rating of −0.34 to 2024 YR4, corresponding to an impact hazard 45.7% of the background level. The discovery triggered the first step in planetary defense responses, prompting several major telescopes to gather data about the object and leading United Nations-endorsed space agencies to begin planning asteroid threat mitigation. The uncertainty region for the 2032 asteroid passage is 2 million km wide.
+Preliminary analysis of spectra and photometric time series suggests the asteroid is a stony S-type or L-type asteroid with a rotation period of approximately 19.5 minutes. The asteroid made a close approach of 828,800 kilometres (515,000 miles; 2.156 lunar distances) to Earth on 25 December 2024 (two days before its discovery) and is now moving away. Its next close approach is expected around 17 December 2028. From early April 2025 until June 2028, 2024 YR4 will be too distant for ground-based telescopes to observe. However, space-based infrared telescopes could continue monitoring it during some of this period. For example, the James Webb Space Telescope is scheduled to observe the asteroid in March and May 2025.
+
+
+== Provisional designation ==
+The asteroid's minor planet provisional designation 2024 YR4 was given by the Minor Planet Center when its discovery was announced on 27 December 2024. "2024" indicates the year of the asteroid's discovery and the first letter "Y" indicates it was discovered during the second half-month of December in that year. The second letter and subscript number indicates the order of the provisional designation assigned in that half-month; for 2024 YR4, "R4" indicates it is the 117th minor planet to be assigned a provisional designation during that half-month.
+
+
+== Physical characteristics ==
+
+
+=== Size and mass ===
+
+The diameter of 2024 YR4 has not been measured, but it can be estimated from its brightness (absolute magnitude) using a range of plausible values for its surface reflectivity (geometric albedo). If 2024 YR4 reflects between 5% and 25% of visible light, then its diameter is between 40 and 90 m (130 and 300 ft). NASA estimates a diameter of 54 m (177 ft) for an assumed geometric albedo of 0.154. These estimates make 2024 YR4 around the same size as the asteroid that caused the 1908 Tunguska event or the iron–nickel asteroid that created the Meteor Crater in Arizona 50,000 years ago, and significantly smaller than the Dimorphos target of the DART asteroid redirection test. The diameter and albedo of 2024 YR4 can be further constrained with thermal infrared observations, radar observations, an occultation of a star, or direct imaging by a spacecraft.
+The mass and density of 2024 YR4 have not been measured, but the mass can be poorly estimated with an assumed density and the estimated diameter. Assuming a density of 2.6 g/cm3, which is within the density range for stony asteroids such as 243 Ida. The Sentry risk table estimates a mass of 2.1×108 kg with an assumed diameter of 54 meters.
+
+
+=== Composition and rotation period ===
+Preliminary spectroscopic analysis from the Gran Telescopio Canarias and Lowell Discovery Telescope suggests that 2024 YR4 is either an S-type (17% of the asteroid population) or L-type asteroid, both of which points to a stony composition.
+Photometric observations by the Very Large Telescope (VLT) and the La Silla Observatory's 1.54-meter telescope indicate 2024 YR4 has a rotation period near 19.5 minutes. The brightness of 2024 YR4 varies by 0.42 magnitudes as it rotates, indicating it has an elongated shape. The VLT has also observed 2024 YR4 at multiple phase angles from 5° to 35°, which would allow for the construction of a phase curve which can constrain the asteroid's surface properties.
+
+
+== Orbit ==
+
+2024 YR4 orbits the Sun on an elliptical orbit that crosses Earth's orbit, making it an Apollo-type near-Earth object. The asteroid has an orbital period of about 3.99 years and an orbital inclination of 3.41 degrees with respect to Earth's orbit (ecliptic).
+The asteroid came to perihelion (closest approach to the Sun) on 22 November 2024. The asteroid made a close approach to Earth on 25 December 2024, two days before its discovery. During this encounter, the asteroid passed 828,800 km (515,000 mi; 2.156 LD) from Earth and then 488,300 km (303,400 mi; 1.270 LD) from the Moon. The asteroid will make its next close approach to Earth around 17 December 2028, when it will pass 7,940,000 ± 503,000 km (4,934,000 ± 313,000 mi; 20.66 ± 1.31 LD) from the planet. The 2028 encounter will provide astronomers the opportunity to perform additional observations and extend the observation arc by four years. This will greatly improve calculations of 2024 YR4's orbit in preparation for its close approach around 22 December 2032.
+
+
+== 2032 potential impact ==
+
+Calculations using the observation arc of 45 days as of 10 February 2025 find that 2024 YR4 has a 1-in-48 (2.1%) chance of impacting Earth on 22 December 2032 around 14:02 UT. The nominal closest approach to Earth is on the 22nd at 10:41 UT (with an uncertainty in the closest approach time of about 15 hours) at a distance of 167,000 kilometres (104,000 miles; 0.43 lunar distances), with a 3-sigma uncertainty of 712,000 kilometres (442,000 miles; 1.85 lunar distances). Due to 2024 YR4's size and greater-than-1% impact probability, it is rated at Torino scale level 3, which has prompted the International Asteroid Warning Network to issue a notice on 29 January 2025. This is the second-highest Torino scale rating an asteroid has ever reached, behind 99942 Apophis which briefly ranked Torino scale level 4 in late 2004. NASA gives a Palermo Technical Impact Hazard Scale rating of −0.34 for 2024 YR4, which corresponds to an impact hazard of 45.7% of the background hazard level. The European Space Agency gives a Palermo rating of −0.35 with an impact probability of 1.99%, while NEODyS gives −0.40 with an impact probability of 1.66%. The risk corridor of 2024 YR4's possible impact locations runs from the Pacific Ocean to Northern South America, the Atlantic Ocean, central Africa, a corner of the Arabian peninsula, the Northwestern Indian Ocean, and then to northern India.
+
+
+== Impact effect ==
+
+Using NASA's estimated diameter, mass, and density for 2024 YR4, the asteroid would release energy equivalent to 7.6 megatonnes of TNT (31.8 PJ) if it were to impact Earth at a velocity at atmosphere entry of 17.32 km/s (10.76 mi/s). Due to its stony composition, this would more likely produce a meteor air burst than an impact crater (for an impact on a continent) or tsunami (for an oceanic impact). It could cause damage as far as 50 km (30 mi) from the impact site. Despite its potential to cause damage if it were to impact, 2024 YR4 is not categorized as a potentially hazardous object (PHO) because it is smaller than 140 m (460 ft) in diameter (PHOs have absolute magnitudes less than 22) and its potential damage therefore would be localized.
+
+
+== Observation opportunities ==
+Additional observations of 2024 YR4 are necessary to reduce uncertainties in its trajectory and determine whether it will impact Earth. Because the asteroid is now moving away from Earth, it is becoming fainter, necessitating the use of larger aperture telescopes such as the 10-meter Keck telescope and the Very Large Telescope. By early April 2025 and until June 2028, 2024 YR4 will have moved too far away from Earth to be observed by even the largest ground-based telescopes. Space-based infrared telescopes such as the James Webb Space Telescope (JWST) will be able to observe 2024 YR4 when it is farther from Earth. The JWST is scheduled to observe 2024 YR4 in March and then April-May 2025 using its NIRCam and Mid-Infrared Instrument, which will provide measurements of both 2024 YR4's position and its infrared thermal emission, from the latter of which the asteroid's size and albedo can be better estimated. 
+The orbital uncertainty of 2024 YR4 may be further reduced with precovery observations, in which the asteroid would be detected in archival telescope images taken before its discovery. The earliest known precovery observation of 2024 YR4 was by ATLAS on 25 December 2024, but the measured position of the asteroid in that observation is more uncertain than in later observations, due to the rapid motion of the asteroid and a longer exposure than would have been optimal for observations of such a fast-moving asteroid. The asteroid passed within 12 million km of Earth in September 2016 and within 20 million km of Earth in October 2020. A search through 2016 Subaru Telescope archival images of a region where 2024 YR4 might have been did not find it. According to Sam Deen, including this negative precovery data in the orbit calculation decreases the likelihood that the asteroid is somewhere along 60–80% of the non-impacting trajectories calculated from the observation arc to late January, which he estimated raised 2024 YR4's impact probability to 3% at that time; also including the single poorer-quality 25 December 2024 precovery observation increased the probability to 6%. Deen said "I invite people to double check me because it's been just me looking at this. I could have missed something." Images of the region taken in 2016 by Palomar Observatory, not made public as of January 2025, may provide further information.
+It may be possible to observe a stellar occultation by 2024 YR4, which if detected can significantly constrain the asteroid's position and trajectory and also provide a direct measurement of its diameter via timing chord(s). 2024 YR4 occulted an apparent magnitude 11.1 star on 6 February 2025, but the path of the asteroid's penumbral shadow on Earth was highly uncertain, with as of 1 February 2025 a positional uncertainty of roughly 7.3 km (4.5 mi) and many times the expected width of the shadow. Fresnel diffraction of the occulted star's light around the small 2024 YR4 also reduced by how much the occultation would have dimmed the star.
+Observations of the asteroid when it passes near Earth again in 2028 will enable the calculation of a very precise orbit and a much refined estimation of the impact likelihood in 2032 as it will extend the observation arc by four years. The asteroid will be about magnitude 25 when it comes to opposition around 19 July 2028 at an Earth distance of 0.79 AU (118 million km). 2024 YR4's 2028 approach therefore will not bring it nearly close enough for precise radar observations, and optical imaging will need large telescopes. If the 2028 observations do not rule out a 2032 impact, then an asteroid redirect mission similar to DART could be sent to 2024 YR4 to avert its impact.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+2024 YR4 at NeoDyS-2, Near Earth Objects—Dynamic Site
+Ephemerides · Observation prediction · Orbital info · MOID · Proper elements · Observational info · Close approaches · Physical info · Orbit animation
+2024 YR4 at ESA–space situational awareness
+Ephemerides · Observations · Orbit · Physical properties · Summary
+2024 YR4 at the JPL Small-Body Database
+2024 YR4 Overview, NASA, 7 February 2025
+Close approach fact sheet for asteroid 2024 YR4, ESA's NEO Coordination Centre
+Images of 2024 YR4, taken by ATLAS in January 2025, at b612.ai
+Asteroidticker, comparative JPL data on NEOs in imperial units
+Light curve of 2024 YR4 by Petr Pravec, Ondrejov Asteroid Photometry Project

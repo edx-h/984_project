@@ -1,0 +1,45 @@
+This is a list of countries by nominal GDP per capita.
+GDP per capita is often considered an indicator of a country's standard of living; however, this is inaccurate because GDP per capita is not a measure of personal income. Measures of personal income include average wage, real income, median income, disposable income and GNI per capita.
+Comparisons of GDP per capita are also frequently made on the basis of purchasing power parity (PPP), to adjust for differences in the cost of living in different countries, see List of countries by GDP (PPP) per capita. PPP largely removes the exchange rate problem but not others; it does not reflect the value of economic output in international trade, and it also requires more estimation than GDP per capita. On the whole, PPP per capita figures are more narrowly spread than nominal GDP per capita figures.
+The figures presented here do not take into account differences in the cost of living in different countries, and the results vary greatly from one year to another based on fluctuations in the exchange rates of the country's currency. Such fluctuations change a country's ranking from one year to the next, even though they often make little or no difference to the standard of living of its population.
+For change of GDP per capita over time as a measure of economic growth, see real GDP growth and real GDP per capita growth.
+Non-sovereign entities (the world, continents, and some dependent territories) and states with limited international recognition are included in the list in cases in which they appear in the sources. These economies are not ranked in the charts here (except Kosovo and Taiwan), but are listed in sequence by GDP for comparison. In addition, non-sovereign entities are marked in italics. Four UN members (Cuba, Liechtenstein, Monaco and North Korea) do not belong to the International Monetary Fund (IMF), hence their economies are not ranked below. Kosovo, despite not being a member of the United Nations, is a member of IMF. Taiwan is not a IMF member but it is still listed in the official IMF indices.
+Several leading GDP-per-capita (nominal) jurisdictions may be considered tax havens, and their GDP data subject to material distortion by tax-planning activities. Examples include Bermuda, the Cayman Islands, Ireland and Luxembourg.
+
+
+== Table ==
+All data are in current United States dollars. Historical data see list of countries by past and projected GDP (nominal) per capita.
+The table initially ranks each country or territory by its IMF estimate, and can be reranked by any of the sources.
+
+Notes:
+
+Data unavailable for the Falkland Islands, Gibraltar, Guernsey, the Holy See (Vatican City), Jersey, Niue, the Pitcairn Islands, Saint Helena, Ascension and Tristan da Cunha, Tokelau, and Western Sahara.
+Nearly all country links in the table (except that of Zanzibar) take to articles titled "Income in country or territory" or to "Economy of country or territory".
+
+
+== Distorted GDP-per-capita for tax havens ==
+
+Many of the leading GDP-per-capita (nominal) jurisdictions are tax havens whose economic data is artificially inflated by tax-driven corporate accounting entries. For instance, the Irish GDP data above is subject to material distortion by the tax planning activities of foreign multinationals in Ireland. To address this, in 2017 the Central Bank of Ireland created "modified GNI" (or GNI*) as a more appropriate statistic, and the OECD and IMF have adopted it for Ireland. 2015 Irish GDP is 143% of 2015 Irish GNI*.
+
+A stunning $12 trillion—almost 40 percent of all foreign direct investment positions globally—is completely artificial: it consists of financial investment passing through empty corporate shells with no real activity. These investments in empty corporate shells almost always pass through well-known tax havens. The eight major pass-through economies—the Netherlands, Luxembourg, Hong Kong SAR, the British Virgin Islands, Bermuda, the Cayman Islands, Ireland, and Singapore—host more than 85 percent of the world’s investment in special purpose entities, which are often set up for tax reasons. 
+Further discussion on this topic can be found in the List of countries by GDP (PPP) per capita article.
+
+
+== See also ==
+List of countries by wealth per adult
+List of countries by past and projected GDP (nominal) per capita
+List of countries by Real gross national income per capita
+List of countries by GDP (nominal)
+List of countries by external debt
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Chart of GDP per capita at current US$ prices by Google, World Bank data
+World Map and Chart of GDP per capita at current prices by Lebanese-economy-forum, World Bank data
+IMF DataMapper

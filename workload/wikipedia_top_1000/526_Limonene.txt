@@ -1,0 +1,51 @@
+Limonene () is a colorless liquid aliphatic hydrocarbon classified as a cyclic monoterpene, and is the major component in the essential oil of citrus fruit peels. The (+)-isomer, occurring more commonly in nature as the fragrance of oranges, is a flavoring agent in food manufacturing. It is also used in chemical synthesis as a precursor to carvone and as a renewables-based solvent in cleaning products. The less common (-)-isomer has a piny, turpentine-like odor, and is found in the edible parts of such plants as caraway, dill, and bergamot orange plants.
+Limonene takes its name from Italian limone ("lemon"). Limonene is a chiral molecule, and biological sources produce one enantiomer: the principal industrial source, citrus fruit, contains (+)-limonene (d-limonene), which is the (R)-enantiomer.  (+)-Limonene is obtained commercially from citrus fruits through two primary methods: centrifugal separation or steam distillation.
+
+
+== In plants ==
+
+(+)-Limonene is a major component of the aromatic scents and resins characteristic of numerous coniferous and broadleaved trees: red and silver maple (Acer rubrum, Acer saccharinum), cottonwoods (Populus angustifolia), aspens (Populus grandidentata, Populus tremuloides) sumac (Rhus glabra), spruce (Picea spp.), various pines (e.g., Pinus echinata, Pinus ponderosa), Pinus leucodermis, Douglas fir (Pseudotsuga menziesii), larches (Larix spp.), true firs (Abies spp.), hemlocks (Tsuga spp.), cannabis (Cannabis sativa spp.), cedars (Cedrus spp.), various Cupressaceae, and juniper bush (Juniperus spp.). It contributes to the characteristic odor of orange peel, orange juice and other citrus fruits. To optimize recovery of valued components from citrus peel waste, (+)-limonene is typically removed.
+
+
+== Chemical reactions ==
+Limonene is a relatively stable monoterpene and can be distilled without decomposition, although at elevated temperatures it cracks to form isoprene.  It oxidizes easily in moist air to produce carveol, carvone, and limonene oxide. With sulfur, it undergoes dehydrogenation to p-cymene.
+Limonene occurs commonly as the (R)-enantiomer, but racemizes at 300 °C. When warmed with mineral acid, limonene isomerizes to the conjugated diene α-terpinene (which can also easily be converted to p-cymene). Evidence for this isomerization includes the formation of Diels–Alder adducts between α-terpinene adducts and maleic anhydride.
+It is possible to effect reaction at one of the double bonds selectively. Anhydrous hydrogen chloride reacts preferentially at the disubstituted alkene, whereas epoxidation with mCPBA occurs at the trisubstituted alkene.
+In another synthetic method Markovnikov addition of trifluoroacetic acid followed by hydrolysis of the acetate gives terpineol.
+The most widely practiced conversion of limonene is to carvone. The three-step reaction begins with the regioselective addition of nitrosyl chloride across the trisubstituted double bond. This species is then converted to the oxime with a base, and the hydroxylamine is removed to give the ketone-containing carvone.
+
+
+=== Biosynthesis ===
+In nature, limonene is formed from geranyl pyrophosphate, via cyclization of a neryl carbocation or its equivalent as shown. The final step involves loss of a proton from the cation to form the alkene.
+
+
+== Uses ==
+As the main fragrance of citrus peels, D-limonene is used in food manufacturing and some medicines, such as a flavoring agent to mask the bitter taste of alkaloids, and as a fragrance in perfumery, aftershave lotions, bath products, and other personal care products. (+)-Limonene is also used as a botanical insecticide. (+)-Limonene is used in the organic herbicides. It is added to cleaning products, such as hand cleansers, to give a lemon or orange fragrance (see orange oil) and for its ability to dissolve oils. In contrast, (-)-limonene has a piny, turpentine-like odor.
+Limonene is used as a solvent for cleaning purposes, such as adhesive remover, or the removal of oil from machine parts, as it is produced from a renewable source (citrus essential oil, as a byproduct of orange juice manufacture). It is used as a paint stripper and is also useful as a fragrant alternative to turpentine. Limonene is also used as a solvent in some model airplane glues and as a constituent in some paints. Commercial air fresheners, with air propellants, containing limonene are used by stamp collectors to remove self-adhesive postage stamps from envelope paper.
+Limonene is also used as a solvent for fused filament fabrication based 3D printing. Printers can print the plastic of choice for the model, but erect supports and binders from high impact polystyrene (HIPS), a polystyrene plastic that is easily soluble in limonene.
+In preparing tissues for histology or histopathology, D-limonene is often used as a less toxic substitute for xylene when clearing dehydrated specimens. Clearing agents are liquids miscible with alcohols (such as ethanol or isopropanol) and with melted paraffin wax, in which specimens are embedded to facilitate cutting of thin sections for microscopy. 
+Limonene, from orange peel oil, is also combustible and has been considered as a biofuel.
+
+
+== Safety and research ==
+Applied to skin, limonene may cause irritation from contact dermatitis, but otherwise appears to be safe for human use. Limonene is flammable as a liquid or vapor and it is toxic to aquatic life.
+
+
+=== Cancer ===
+There is no evidence that the limonene in peel oils of citrus fruits affects the onset or progress of cancer, with one national agency stating, "There is no consistent evidence that people with cancer who consume limonene—either in supplement form or by eating citrus fruits—get better or are more likely to be cured".
+
+
+== See also ==
+Essential oil
+Monoterpenes
+Resin
+
+
+== References ==
+
+
+== External links ==
+
+Mass spectrum of limonene
+Description of D-limonene on the International Chemical Safety Cards
+D-Limonene information from the United States Environmental Protection Agency

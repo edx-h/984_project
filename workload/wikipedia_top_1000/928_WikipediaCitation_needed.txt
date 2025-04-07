@@ -1,0 +1,45 @@
+To ensure that all Wikipedia content is verifiable, Wikipedia provides a means for anyone to question an uncited claim. If your work has been tagged, please provide a reliable source for the statement, and discuss if needed.
+You can add a citation by selecting from the drop-down  menu at the top of the editing box. In markup, you can add a citation manually using ref tags. There are also more elaborate ways to cite sources.
+In wiki markup, you can question an uncited claim by inserting a simple {{Citation needed}} tag, or a more comprehensive {{Citation needed|reason=Your explanation here|date=February 2025}}. Alternatively, {{fact}} and {{cn}} will produce the same result. These all display as: 
+
+Example: 87 percent of statistics are made up on the spot. 
+For information on adding citations in articles, see Help:Referencing for beginners. For information on when to remove template messages, see Help:Maintenance template removal.
+
+A "citation needed" tag is a request for another editor to supply a source for the tagged fact: a form of communication between members of a collaborative editing community. It is never, in itself, an "improvement" of an article. Though readers may be alerted by a "citation needed" that a particular statement is not supported, and even doubted by some, many readers don't fully understand the community's processes. Not all tags get addressed in a timely manner, staying in place for months or years, forming an ever-growing Wikipedia backlog—this itself can be a problem. Best practice recommends the following: 
+
+Tag thoughtfully. Avoid "hit-and-run" or pointed tagging. Try to be courteous and consider the hypothetical fellow-editor who will, we hope, notice your tag and try to find the citation you have requested. When adding a tag, ask yourself: Is it clear just what information you want cited? Is the information probably factual? (If it is not, then it needs deletion or correction rather than citation!) Is the knowledge so self-evident that it really does not need to be cited at all? (Some things do not.)
+Some tags are inserted by people well-placed to find a suitable citation themselves. If this is the case, consider adding these articles to your watchlist or a worklist so that you can revisit the article when you have the opportunity to fix any verifiability issues yourself.
+
+Before adding a tag, at least consider the following alternatives, one of which may prove much more constructive:
+
+Do not use this tag because you don't understand a statement, or feel that "non-expert" readers are likely to be confused. Use {{Clarify}}, {{Explain}}, {{Confusing}}, {{Examples}}, {{Why}} or {{Non sequitur}}, as appropriate, instead.
+If the content is nonsense or is unlikely to be true,  be bold and delete it!
+If the content is a common misconception, replace it with a cited contradictory statement. This prevents the misconception from being readded and reremoved again and again.
+Do not tag controversial material about living people that is unsourced or poorly sourced. Remove it immediately!
+Per WP:DIARY, do not tag excessively trivial claims. Remove them.
+If you are sure the statement you want to tag is not factual, even if it does not come under either of the preceding headings, it may be more appropriate to simply remove the text (delete it!). Be sure to add a suitable edit summary, such as "Very doubtful – please add a citation if you return the content". If the original statement was accurate after all, this gives someone the chance to put it back, hopefully with a proper citation this time.
+If a statement sounds plausible, and is consistent with other statements in the article, but you doubt that it is totally accurate, then consider making a reasonable effort to find a reference yourself. In the process, you may end up confirming that the statement needs to be edited or deleted to better reflect the best knowledge about the topic.
+If an article, or a section within an article, is under-referenced, then consider adding an {{Unreferenced}}, {{Refimprove}}, or {{Unreferenced section}} tag to the article or section concerned – these tags allow you to indicate more systemic problems to the page.
+A reference at the end of a paragraph typically refers to the whole paragraph, and similarly a reference at the end of a sentence may almost always be taken as referring to the whole sentence. If a particular part of a sentence or paragraph seems to require a separate citation, or looks as if it may have been inserted into the text at a sentence or paragraph level, try to check the original reference rather than adding tags to text that may already be well referenced. The extra parameters available in the {{Citation needed span}} template may allow you to indicate which section you want to refer to.
+Do not insert a "Citation needed" tag to make a point, to "pay back" another editor, or because you "don't like" a subject, a particular article, or another editor.
+
+If you can provide a reliable source for the claim, then please add it! If you are not sure how to do this, then give it your best try and replace the "Citation needed" template with enough information to locate the source. You may leave the copyediting or Wikifying to someone else, or learn more about citing sources on Wikipedia. This beginners' referencing guide for Wikipedia provides a brief introduction on how to reference Wikipedia articles.
+If someone tagged your contributions with a "Citation needed" tag or tags, and you disagree, discuss the matter on the article's talk page. The most constructive thing to do in most cases is probably to supply the reference(s) requested, even if you feel the tags are "overdone" or unnecessary.
+
+There are 539,932 articles with "Citation needed" statements. You can browse the whole list of these articles at Category:All articles with unsourced statements.
+Frequently the authors of statements do not return to Wikipedia to support the statement with citations, so other Wikipedia editors have to do work checking those statements. With 539,932 articles containing statements that need WP:Verification, sometimes it's hard to choose which article to work on. The tool Citation Hunt makes that easier by suggesting random articles, which you can sort by topical category membership.
+
+Template:Citation needed
+Template:Citation needed span
+Template:Verify source
+Template:Unreferenced for an article (rather than an individual statement) that does not cite any references or sources.
+Template:More citations needed for an article (rather than an individual statement) that has some citations, but not enough.
+Template messages – Sources of articles
+Inline verifiability and sources cleanup templates
+Wikipedia:Verification methods – listing examples of the most common ways that citations are used in Wikipedia articles
+Wikipedia:Citing sources/Example edits for different methods – showing comparative edit mode representations for different citation methods and techniques.
+Wikipedia:Citation templates – a full listing of various styles for citing all sorts of materials
+Wikipedia:WikiProject Reliability
+Category:All articles with unsourced statements – list of all pages with {{citation needed}}
+
+ Media related to Citation needed at Wikimedia Commons

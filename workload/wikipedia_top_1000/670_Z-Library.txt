@@ -1,0 +1,65 @@
+Z-Library (abbreviated as z-lib, formerly BookFinder) is a shadow library project for file-sharing access to scholarly journal articles, academic texts and general-interest books. It began as a mirror of Library Genesis, but has expanded dramatically.
+According to the website's own data released in February 2023, its collection comprised over 13.35 million books and over 84.8 million articles. Z-Library is particularly popular in emerging economies and among academics. In June 2020, Z-Library was visited by around 2.84 million users, of whom 14.76% were from the United States of America. According to the Alexa Traffic Rank service, Z-Library was ranked as the 8,182nd most active website in October 2021.
+The organization describes itself as "the world's largest e-book library", as well as "the world's largest scientific articles store", and operates as a non-profit organization sustained by donations. Besides sharing ebooks, Z-Library plans to expand their offerings to include physical paperback books, at dedicated "Z-Points" around the globe, as well.
+Z-Library and its activities are illegal in many jurisdictions. While website seizures reduced the accessibility of the content, it remains available on the dark web. The legal status of the project, as well as its potential impact on the publishing industry and authors' rights, is a matter of ongoing debate.
+
+
+== Website ==
+The site is financed by user donations, that are collected twice a year (September and March) through fundraising. Over the years, various URLs and IP addresses have been used for Z-Library as domain names have been confiscated by various legal authorities.
+
+
+=== Functionality ===
+Not much is known about Z-Library in terms of its operation, management, and commercial status. Notably, Z-Library does not open its full database to the public. Despite that, its database, excluding books from Library Genesis, was mirrored by archivists in 2022.
+In an effort to prevent blacklisting of domains (oftentimes by internet providers at the DNS-level in accordance with legal procedures), Z-Library used a homepage that did not contain any infringing content, but instead listed many working mirror domains for different regions. This did not help, as the domain "z-lib.org" was seized in 2022.
+In March 2019, the Z-Library team claimed to have servers in Finland, Germany, Luxembourg, Malaysia, Panama, Russia and the United States, and the size of their database is over 220 TB.
+In August 2023, Z-Library announced the possible use of browser extensions to help mitigate challenges if the domain name has to change.
+
+
+=== Fraudulent domains ===
+Some phishing scams have attempted to impersonate Z-Library by using similar domain names and an identical visual design in order to extract login credentials and ask for donations.
+
+
+== Legal status ==
+
+Z-Library has cycled through domain names, some of which have been blocked by domain registry operators. Z-Library remains reachable via alternative domains, and is also accessible through the .onion-linked Tor network.
+
+
+=== United Kingdom ===
+In mid-2015, The Publishers Association, a UK organization, attempted to enact internet service provider-level blocks on Z-Library. In late 2015, publisher Elsevier filed a successful court request that ordered the registrar of bookfi.org to seize the site's internet domain.
+
+
+=== United States ===
+Some of Z-Library's domains, bookfi.org, booksc.org and b-ok.org, were included in the 2017 Office of the United States Trade Representative report on notorious markets.
+Z-Library's domains were temporarily blocked in 2021 after a DMCA notice issued by Harvard Business Publishing. The domain suspensions were lifted.
+In October 2022, TikTok blocked hashtags related to Z-Library after it gained popularity there and the Authors Guild submitted a complaint to the United States Trade Representative. On November 3, 2022, over 240 domain names of Z-Library's were seized by the United States Department of Justice and Federal Bureau of Investigation in response to a court order, and two Russian nationals associated with the project were arrested on charges related to copyright infringement and money laundering in Argentina.  
+When the domains z-lib.org, b-ok.org, and 3lib.net were seized, the DNS servers utilised switched to ns1.seizedservers.com and ns2.seizedservers.com, used commonly in US law enforcement seizures. These servers have switched to Njalla, an anonymous hosting provider. The website continues to be active and accessible through the Tor network and the I2P network, before returning to the regular Internet through private personal domains issued to each user on February 11, 2023.
+On November 16, 2022, U.S. Attorneys for the Eastern District of New York of the Department of Justice unsealed the indictment for two Russian nationals, Anton Napolsky and Valeriiia Ermakva, who had been placed under house arrest in Argentina on November 3, 2022 pending an extradiction hearing. They were charged with criminal copyright infringement, wire fraud and money laundering for operating the Z-Library website. The indictment pertains to alleged criminal activity taking place from 2018 to 2022, though the pair are suspected to have operated Z-Library for "over a decade". The arrests were accomplished by the FBI with data from Google and Amazon (among other sites), accessed with search warrants, that helped identify the founders of the website. The U.S. lawyers retained as official representatives requested a dismissal of the criminal indictment in June 2023. The two escaped their house arrest in Argentina. The presiding judge issued an Interpol warrant for their arrest, and their whereabouts are unknown.
+The law enforcement efforts were formally assisted by The Publishers Association along with the Authors Guild, and reportedly, indirectly by BREIN, a Dutch anti-piracy group. The Authors Guild issued a statement supporting the arrests, commenting that it was "one of the biggest breakthroughs in the fight against online criminal e-book piracy to date". The executive director for the Authors Alliance, a group dedicated to increasing access for literature, said "I certainly don't condone illegal behavior, but I think this seizure and press release highlight how broken our copyright system is". Some authors like Alison Rumfitt have also defended the project, arguing that it provides a valuable service by increasing access to knowledge and promoting education in underprivileged communities.
+Decreased accessibility to Z-Library and its services has substantially impacted students and researchers in underfunded institutions who rely on its resources for their studies and work. Days after the law enforcement action, a group of anonymous archivists launched Anna's Archive, a search engine that provides access to the contents of Z-Library and other shadow libraries. Many other workarounds to the recent attempts to take down Z-Library have been reported. Some of these purported alternative sites have taken up the top search results and submitted bogus DMCA takedown requests of their own, according to news reports.
+In May 2023, a new round of domain name seizures was carried out by U.S. authorities.
+In November 2023, dozens of domains were seized by authorities from the United States and Austria.
+In January 2024, additional Z-Library domains were reported to have been targeted by publishers.
+In May 2024, several domain name seizures were carried out by U.S. authorities, including the site’s email domain z-lib.se.
+
+
+=== India ===
+The website was banned in India in August 2022, following a court order from the Tis Hazari district court, after a complaint which stated that the copyrights of ten books (pertaining to the topics of tax and corporate law) were being violated by Z-Library. Internet service providers in India were directed to block the site. The decision to block Z-Library and other shadow libraries has been criticized by some Indian authors, students, academics, and freedom of information activists. On November 5, 2022, the Hindu right wing group Swadeshi Jagran Manch formally objected that the FBI's seizure of the Indian domain name 1lib.in (used by Z-lib) merely by the District Judge of New York's order without jurisdiction had violated India's sovereignty.
+
+
+=== France ===
+In September 2022, it was announced that the Syndicat national de l'édition (National Publishing Union) in France succeeded in a legal challenge to Z-Library, having filed a complaint against about two hundred domains and mirror site domains associated with it. The decision was made by the Tribunal Judiciaire de Paris, which is Paris's civil court; internet service providers in France were directed to block the domains.
+
+
+=== China ===
+The site is targeted and blocked by the Great Firewall.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Official website 
+Z-Library on Twitter

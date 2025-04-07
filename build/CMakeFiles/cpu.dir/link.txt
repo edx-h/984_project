@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/cpu.dir/comp/cpu.cpp.o -o cpu 

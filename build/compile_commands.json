@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/root/gpu_db/984_project/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler   -g -x cu -c /root/gpu_db/984_project/comp/algorithm_executable.cu -o CMakeFiles/cuda.dir/comp/algorithm_executable.cu.o",
+  "file": "/root/gpu_db/984_project/comp/algorithm_executable.cu"
+},
+{
+  "directory": "/root/gpu_db/984_project/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler   -g -x cu -c /root/gpu_db/984_project/comp/compressor.cu -o CMakeFiles/compressor.dir/comp/compressor.cu.o",
+  "file": "/root/gpu_db/984_project/comp/compressor.cu"
+},
+{
+  "directory": "/root/gpu_db/984_project/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/cpu.dir/comp/cpu.cpp.o -c /root/gpu_db/984_project/comp/cpu.cpp",
+  "file": "/root/gpu_db/984_project/comp/cpu.cpp"
+}
+]

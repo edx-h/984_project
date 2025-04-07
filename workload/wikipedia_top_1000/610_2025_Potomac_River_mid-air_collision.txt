@@ -1,0 +1,126 @@
+On January 29, 2025, a United States Army Sikorsky UH-60 Black Hawk helicopter collided mid-air with American Airlines Flight 5342 (operated by PSA Airlines as American Eagle), a Bombardier CRJ700 airliner, over the Potomac River, about half a mile (800 m) short of runway 33 at Ronald Reagan Washington National Airport in Arlington, Virginia. All 67 people aboard the two aircraft were killed in the crash (64 on the airliner, 3 on the helicopter). It was the first major U.S. commercial passenger flight crash in nearly 16 years since Colgan Air Flight 3407 in 2009.
+Flight 5342 was on final approach after departing from Wichita Dwight D. Eisenhower National Airport in Wichita, Kansas, while the helicopter crew was performing a required annual night flying evaluation out of Davison Army Airfield in Fairfax County, Virginia. Preliminary data shows the collision likely occurred at an altitude of around 325 feet (99 m); the Federal Aviation Administration requires helicopters on that route to stay at or below 200 feet (61 m). Both aircraft were communicating with air traffic control before they collided. The helicopter crew reported twice that they had visual contact with the airliner and would maintain separation from it.
+
+
+== Background ==
+
+
+=== Aircraft ===
+Flight 5342 was operated by a 20-year-old Bombardier CRJ700, a regional jet commonly used for short- to medium-haul flights. It was configured as a CRJ701ER, denoting a slightly higher seating capacity and extended range. Manufactured in September 2004, it bore the registration number N709PS. It originally was delivered to US Airways Express and operated under MidAtlantic Airways as N165MD before it was transferred to PSA Airlines in 2005 and was re-registered as N709PS. The aircraft was transferred to American Eagle in 2013 when American Airlines and US Airways merged. PSA Airlines staffed and maintained the aircraft used on the scheduled and marketed flight. PSA Airlines is owned by the American Airlines Group, which is also the parent company of American Airlines. No problems were reported as the plane took off from Wichita Dwight D. Eisenhower National Airport and headed for Ronald Reagan Washington National Airport.
+The helicopter involved was a United States Army Sikorsky UH-60L Black Hawk registered as 00-26860. The helicopter was configured for use as executive transportation for senior U.S. officials and soldiers, and was flying under the callsign PAT25, indicating a "Priority Air Transport" flight. No senior officials were on board the helicopter. The helicopter, of B Company of the 12th Aviation Battalion at Fort Belvoir, was on a training flight out of Davison Army Airfield when the collision occurred. The helicopter was part of the Continuity of Government Plan, with the flight being a routine re-training of aircrew in night flight along the corridor that elements of the US government would use to evacuate the capital in an emergency.
+
+
+=== Passengers and crew ===
+
+The airliner carried sixty passengers and four crew members: a captain, a first officer and two flight attendants. The captain, Jonathan Campos, 34, had worked with the airline for six years. The first officer, Samuel Lilley, 28, had worked with the airline for two years.
+The helicopter had a crew of three Army personnel:
+
+Captain Rebecca Lobach, 28, from Durham, North Carolina, was the pilot flying and undergoing her annual night evaluation flight. She had accumulated more than 450 hours of flight time at the time of the crash.
+Chief Warrant Officer 2 Andrew Eaves, 39, of Great Mills, Maryland, was the pilot monitoring and the evaluator for the pilot flying.
+Staff Sergeant Ryan O'Hara, 29, from Lilburn, Georgia, was the helicopter's crew chief.
+
+
+=== Ronald Reagan Washington National Airport ===
+The airspace around Reagan National Airport is among the world's most complex and closely monitored; it is restricted on both sides of the Potomac River to protect government buildings in Washington, D.C. Efforts have been made to reduce its congestion, but Congress approved more flights in 2024. Military helicopter operations add to the complexity and include a helicopter corridor that passes within 100 vertical feet of the approach for runway 33.
+On the night of the collision, staffing at the tower was "not normal for the time of day and volume of traffic," according to an internal preliminary Federal Aviation Administration (FAA) safety report. A single controller handled helicopters in and around the airport and instructed landing and departing planes at the time of the accident. "Those jobs typically are assigned to two controllers, rather than one" at that time of day. The duties are normally combined at 9:30 p.m., when traffic has slackened. But before the accident, an air controller supervisor combined the duties, to allow one air traffic controller to leave early. The union that represents air traffic controllers cautioned against assuming that the combined role would make conditions unsafe.
+As of September 2023, the tower at Reagan Airport was nearly a third below targeted staffing levels. The staffing shortage has forced many controllers to work up to six days a week and 10 hours per day.
+The airport was also the site of a mid-air crash in 1949, when an Eastern Air Lines DC-4 and a Bolivian military P-38 collided on short final approach, killing 55 in the deadliest U.S. air crash to that point.
+
+
+== Accident ==
+
+Around 8:43 p.m. EST, flight 5342 was flying a visual approach to runway 1 when it made initial contact with the Reagan National control tower. The controller asked if the crew could switch to runway 33. After a brief discussion, the crew accepted the switch and was cleared to land on runway 33. Around 8:46 p.m. the controller called the helicopter crew advising them of a CRJ700, at an altitude of 1,200 feet (370 m), south of the Woodrow Wilson Memorial Bridge, on approach to runway 33. The helicopter crew acknowledged that they had the jet in sight and requested visual separation—meaning that they could see and would maintain separation from the aircraft on their own—which the controller approved.
+Around 8:47 p.m. EST (01:47 UTC), less than 30 seconds before the collision, the air traffic radar issued a conflict alert (CA), and the controller asked the helicopter crew if they had the CRJ in sight and then instructed the helicopter to pass behind Flight 5342. The helicopter crew once again confirmed they had an airplane in sight and requested visual separation from the airliner, which the controller approved again.
+
+ 
+The two aircraft collided at a height yet to be precisely established (at its last tracking point, the plane was below 300 feet [91 m]), causing the helicopter to explode and crash into the Potomac River. The airliner's airspeed was 128 miles per hour (206 km/h; 111 kn). The CRJ700's radio transponder ceased transmitting about 2,400 feet (730 m) short of Runway 33.
+The collision was captured by a webcam at the John F. Kennedy Center for the Performing Arts, and another video showed a brief trail of fire. Other videos showed that the collision may have damaged the rotor blades of the Blackhawk and the left wing of the  CRJ700 as the airliner fell in a left-hand spiral into the water. Witnesses reported that the airliner "split in half" upon impact, while the helicopter crashed upside down near the airliner. A pilot in another aircraft confirmed seeing the crash to an air traffic controller and reported seeing flares from the opposite side of the Potomac as his flight was on short final.
+The airplane was equipped with a traffic collision avoidance system (TCAS). However, TCAS generally inhibits its resolution advisories when the airplane is fewer than 1,000 feet (300 m) above ground level. This precaution is taken to avoid guiding an aircraft into potential collisions with terrain or other aircraft in congested terminal airspace and to reduce pilot cognitive load during critical phases of flight.
+Within three hours of the collision, authorities confirmed fatalities. By 2:50 a.m. the following morning, no survivors had been reported, and search and rescue operations were described as "becoming more grim". By afternoon, all 67 people onboard both aircraft were presumed dead.
+It was the first major commercial passenger flight accident in the U.S. in nearly 16 years, following Colgan Air Flight 3407 in 2009. It was also the first fatal accident involving American Airlines since Flight 587 on November 12, 2001, as well as the first fatal crash of a CRJ700 series aircraft. It was also the first crash in the Potomac River since Air Florida Flight 90 on January 13, 1982.
+
+
+=== Emergency response ===
+
+Chief John Donnelly of the District of Columbia Fire and Emergency Medical Services Department (DC FEMS) said emergency responders were notified of an aircraft crash at 8:48 p.m. The first units arrived at the scene at 8:58 p.m., where they discovered the aircraft in the water. DC FEMS would be joined by emergency personnel from the Metropolitan Police Department of the District of Columbia, Metropolitan Washington Airports Authority Fire and Rescue Department, United States Coast Guard, Maryland State Police, along with other local, state, and federal agencies. Additionally, several tour boats from City Cruises sailed from the Washington Sailing Marina to help with search and rescue operations.
+Fireboats and divers were deployed to search for victims and survivors. Cold temperatures, strong winds, ice, and murky water hampered rescue efforts. The water temperature near the crash site was recorded at 35 °F (2 °C). On January 30, the rescue operation turned into a recovery mission. By February 4, all bodies had been recovered, including the three soldiers in the helicopter, and all of them were identified by February 5.
+After the collision, Ronald Reagan Washington National Airport suspended all takeoffs and landings, diverting flights to nearby airports, including Dulles International Airport, Baltimore/Washington International Airport, and Richmond International Airport. The Washington Metropolitan Area Transit Authority extended Silver Line service to help passengers whose flights were diverted to Dulles and dispatched "warming buses" to help relief operations. The airport remained closed until 11:00 a.m. on January 30.
+The fuselage of Flight 5342 was found upside down in three sections in the river and is being recovered. The search for debris extended to the Woodrow Wilson Bridge, 3 mi (5 km) south of Reagan National Airport. A crane used to lift debris after the March 2024 collapse of the Francis Scott Key Bridge in Baltimore was brought to help pick up plane wreckage. The US Navy also sent two barges to recover heavy items. According to federal officials, the wreckage of the helicopter was also recovered and was transported to a secure location.
+
+
+== Casualties ==
+
+
+=== Figure skating community ===
+Among the passengers were 28 U.S. Figure Skating athletes, coaches, and family members returning from a national development camp held in conjunction with the 2025 U.S. Figure Skating Championships in Wichita, Kansas. This included eleven skaters, aged 11–16, plus thirteen parents and four coaches.
+The coaches were all former Soviet/Russian figure skaters. Evgenia Shishkova and Vadim Naumov had won gold medals in pair skating at the 1994 World Figure Skating Championships. Inna Volyanskaya had also competed in pairs, while Alexandr Kirsanov was an ice dancer.
+It was the second time members of the U.S. Figure Skating team died in an aviation accident, after the 1961 crash of Sabena Flight 548 in Belgium. Ever since that crash, a former competitor said, it has been rare to see so many American skaters flying together.
+
+
+=== Other deaths ===
+Other passengers included four members of the D.C.-based UA Steamfitters Local 602 union; three students and six parents from schools of Fairfax County Public Schools in Virginia; a civil rights attorney; a colonel of the Philippine National Police; the president-elect of the National Association of Biology Teachers; two Chinese nationals, a Pakistani national, two Polish-American nationals, an unspecified number of German nationals; and a Danish citizen.
+
+
+== Aftermath ==
+
+On January 31, 2025, the FAA restricted helicopter flights near the airport. The FAA partially closed both the route that the Black Hawk was on when it collided with the CRJ700 and another route that runs south of the Key Bridge in Washington and connects the neighborhood of Georgetown to Rosslyn, Virginia. These routes, designated Route 4 and Route 1 respectively, remain open only to police, medical, air defense, and presidential transport flights. That same day, PSA Airlines retired flight number 5342 and stated that the new number for the Wichita to Washington National route would be Flight 5677.
+Separately, two staff members of the Metropolitan Washington Airports Authority were taken into custody on suspicion of providing CNN with surveillance footage of the crash.
+A vigil was held at the Wichita City Council chambers in memory of the victims.
+
+
+== Investigations ==
+
+The National Transportation Safety Board (NTSB), the FAA, the U.S. Department of Defense, and the U.S. Army announced they would launch investigations into the collision. The NTSB prepared an investigation team to send to the accident site. After the crash, to retain needed personnel, the agency acquired an exemption from the "Fork in the Road" memo which purported to allow all of its agents to quit with severance paid through September 2025. 
+The Federal Bureau of Investigation (FBI) also stated it would help with the response, though there were no indications of terrorism or criminal activity. The Transportation Safety Board of Canada (TSB) deployed two investigators to help the investigation, since the Bombardier CRJ700 was designed and manufactured in Canada.
+On the evening of January 30, the flight recorder ("black box") of Flight 5342 was recovered from the wreckage and brought to the NTSB lab for evaluation. The helicopter's flight recorder was recovered on January 31. 
+
+According to the NTSB, preliminary data shows that, at the moment of impact, the airplane was likely at an altitude of 325 feet (99 m) plus or minus 25 feet (7.6 m). The radar display in the control tower indicated the helicopter at an altitude of 300 feet (91 m), as control tower displays are rounded to the nearest 100 feet. Reagan National requires helicopters on that route to stay at or below 200 feet (61 m). A single air traffic controller was managing both aircraft at the time of the crash, an arrangement deemed "not normal" for that time of day at the airport. According to radio transmissions, the controllers twice warned the helicopter crew about the approaching PSA jet, with the first alert issued two minutes before the collision. About nineteen seconds before impact, the crew of flight 5342 received an automated traffic advisory alert from the TCAS system. Data from the flight recorder showed the PSA jet pitched up about one second before impact, but investigators did not say whether this was an attempted evasive maneuver by the PSA pilots.
+
+
+== Responses ==
+
+
+=== Aviation ===
+American Airlines CEO Robert Isom, in a video statement produced by the airline, said that the airliner pilots were experienced. American Airlines also launched a hotline for family members of passengers on Flight 5342. 
+Chesley "Sully" Sullenberger, an aviation safety expert and the pilot of US Airways Flight 1549 that ditched in the Hudson River in 2009, argued for more safety zones and restrictions on flight patterns.
+
+
+=== Domestic ===
+President Donald Trump was briefed on the collision shortly after it occurred. Shortly after midnight, he wrote on Truth Social questioning the actions of the air traffic controllers and asserting that the situation could have been prevented. He also criticized the helicopter crew for flying too high. Later that morning, Trump released a statement calling the crash a "terrible accident," thanking emergency responders and saying of the victims: "May God bless their souls."
+Trump criticized the previous Democratic administrations, including former Biden transportation secretary Pete Buttigieg for inclusivity rules that he said had reduced air safety, although his first administration had also supported those rules.
+
+Trump alleged that the FAA's diversity, equity, and inclusion (DEI) goals supported by former presidents Joe Biden and Barack Obama may have been partly to blame for the crash. A policy introduced in 2013 by the Obama administration's FAA that encouraged the hiring of minorities as air traffic controllers was continued by the first Trump administration's FAA.
+Trump criticized the FAA for being open to hiring air traffic controllers with "hearing, vision, missing extremities, partial or complete paralysis, epilepsy, severe intellectual disability, psychiatric disability and dwarfism." This was a policy introduced in 2019 by his own first administration's FAA, which announced a program to allow twenty people with "targeted disabilities" to train at air traffic control centers for air traffic operations careers; several disabilities such as epilepsy, poor vision, and some mental disorders were still disqualifying for air traffic controller positions per FAA and OPM regulations on DEI hires.
+Trump said that he would meet with families of the victims, but rebuffed the idea of visiting the site of the accident after being pressed by reporters during a briefing, asking, "What's the site? The water? You want me to go swimming?". The remark was widely criticized.
+
+
+==== Response to Trump's comments ====
+Trump received pushback and criticism for his claims that DEI initiatives were to blame for the crash, including by Buttigieg, who said that Trump's claims were "despicable" and that he should be "leading, not lying". Representative Ilhan Omar of Minnesota criticized Trump for "blaming this deadly crash on minorities and white women" and that the comments were "disgusting, racist and sexist". Senate Minority Leader Chuck Schumer of New York also criticized Trump's remarks, calling them "idle speculation". Maryland Senator Chris Van Hollen criticized Trump by stating that he was "making a political show out of this awful tragedy" about the crash. Senator Chris Murphy of Connecticut stated that Trump was "blaming Black people and blaming women who work at the FAA without any evidence." Representative Jesús "Chuy" García of Illinois stated that Trump was "exploiting disaster to continue to spread racist lies and divisiveness across the country." Sully Sullenberger responded to Trump by stating that "an airplane cannot know or care" about a pilot's race or gender but can only care about "what the control inputs are" and that he was "disgusted" by Trump's comments.
+Meanwhile, Trump administration officials agreed with his claim that such policies may have caused the crash. Vice president JD Vance said, "When you don't have the best standards in who you're hiring, it means on the one hand, you're not getting the best people in government. But on the other hand, it puts stresses on the people who are already there." Sean Duffy, the United States Secretary of Transportation, said, "We can only accept the best and the brightest in positions of safety," while Pete Hegseth, the United States Secretary of Defense, said, "The era of DEI is gone at the Defense Department and we need the best and brightest," including in "our air traffic control." Duffy also said, "What I've seen so far, do I think this was preventable? Absolutely." Hegseth also said that the helicopter crew was "fairly experienced," and undergoing "routine annual retraining—night flights on a standard [flight] corridor for a continuity-of-government mission." White House Press Secretary Karoline Leavitt supported Trump's claim by stating that it was "common sense" to be concerned about potential negative effects of DEI initiatives.
+
+
+=== International ===
+The International Olympic Committee said they "extend their heartfelt sympathies to all those affected, which we understand may include Olympians, young athletes, and their support staff." At the 2025 European Figure Skating Championships, which had begun the morning of the collision, a moment of silence was observed to mourn the figure skaters and family members lost. The International Skating Union and many international skating federations also offered their condolences.
+Pope Francis sent a telegram to the White House expressing condolences for the victims of the collision. The Russian Embassy in the United States sent condolences to the families of the Russian nationals who died in the crash. The Chinese foreign ministry expressed condolences to the families of the crash victims and demanded a full investigation of the disaster. Canadian Prime Minister Justin Trudeau offered his condolences "to [the] grieving family members and loved ones who are facing unimaginable loss."
+
+
+== See also ==
+
+2025 in aviation
+List of accidents involving sports teams
+List of mid-air collisions
+1949 Washington National Airport mid-air collision
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+NTSB – Midair Collision: PSA Airlines Bombardier CRJ700 airplane and Sikorsky H-60 military helicopter
+Playback of Flight AA5342 – Flightradar24
+KDCA Tower, KDCA Tower/Approach, and Helicopter ATC Audio Archive – LiveATC
+Metropolitan Washington Airports Authority (MWAA) Audio Archive – Broadcastify

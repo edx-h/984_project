@@ -1,0 +1,167 @@
+Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd., doing business as DeepSeek, is a Chinese artificial intelligence company that develops open-source large language models (LLMs). Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge fund High-Flyer. DeepSeek was founded in July 2023 by High-Flyer co-founder Liang Wenfeng, who also serves as its CEO.
+The DeepSeek-R1 model provides responses comparable to other contemporary large language models, such as OpenAI's GPT-4o and o1. Its training cost is reported to be significantly lower than other LLMs. The company claims that it trained R1 for US$6 million compared to $100 million for OpenAI's GPT-4 in 2023, and approximately one tenth of the computing power used for Meta's comparable model, LLaMA 3.1. 
+DeepSeek's AI models were developed amid United States sanctions on China and other countries restricting access to chips used to train LLMs. These were intended to restrict the ability of these countries to develop advanced AI systems. Lesser restrictions were later announced that would affect all but a few countries.
+DeepSeek's success against larger and more established rivals has been described as "upending AI". DeepSeek's compliance with Chinese government censorship policies and its data collection practices raised concerns over privacy and information control, prompting regulatory scrutiny in multiple countries. In February 2024, Australia banned the use of the company's technology on all government devices.
+DeepSeek's algorithms, models, and training details are open-source, allowing its code to be used, viewed, and modified by others. Reports indicate that it applies content restrictions in accordance with local regulations, limiting responses on topics such as the Tiananmen Square massacre and Taiwan's political status. The company reportedly recruits AI researchers from top Chinese universities and hires from outside the computer science field to diversify its models' knowledge and abilities.
+
+
+== History ==
+In February 2016, High-Flyer was co-founded by AI enthusiast Liang Wenfeng, who had been trading since the 2007–2008 financial crisis while attending Zhejiang University. The company began stock-trading using a GPU-dependent deep learning model on October 21, 2016. Prior to this, they used CPU-based models, mainly linear models. Most trading was driven by AI by the end of 2017.
+In 2019, Liang established High-Flyer as a hedge fund focused on developing and using AI trading algorithms. By 2021, High-Flyer exclusively used AI in trading, often using Nvidia chips.
+Initial computing cluster Fire-Flyer began construction in 2019 and finished in 2020, at a cost of 200 million yuan. It contained 1,100 GPUs interconnected at a rate of 200 Gbps. It was 'retired' after 1.5 years in operation. 
+In 2021, Liang began stockpiling Nvidia GPUs for an AI project. According to 36Kr, Liang acquired 10,000 Nvidia A100 GPUs before the United States restricted chip sales to China. Computing cluster Fire-Flyer 2 began construction in 2021 with a budget of 1 billion yuan. 
+It was reported that in 2022, Fire-Flyer 2's capacity had been used at over 96%, totaling 56.74 million GPU hours. 27% was used to support scientific computing outside the company. 
+During 2022, Fire-Flyer 2 had 5000 PCIe A100 GPUs in 625 nodes, each containing 8 GPUs. At the time, they exclusively used PCIe instead of the DGX version of A100, since at the time the models they trained could fit within a single 40 GB GPU VRAM, so there was no need for the higher bandwidth of DGX (i.e. they required only data parallelism but not model parallelism). Later, they incorporated NVLinks and NCCL, to train larger models that required model parallelism.
+On 14 April 2023, High-Flyer announced the start of an artificial general intelligence lab dedicated to research developing AI tools separate from High-Flyer's financial business. Incorporated on 17 July 2023, with High-Flyer as the investor and backer, the lab became its own company, DeepSeek. Venture capital firms were reluctant to provide funding, as they considered it unlikely that the venture would be able to quickly generate an "exit".
+On 16 May 2023, the company Beijing DeepSeek Artificial Intelligence Basic Technology Research Company, Limited. was incorporated. It was laten taken under 100% control of Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd (which was incorporated 2 months after). As of May 2024, Liang owned 84% of DeepSeek through two shell corporations.
+On 2 November 2023, DeepSeek released its first model, DeepSeek Coder. On 29 November 2023, DeepSeek released the DeepSeek-LLM series of models.: section 5  On 9 January 2024, they released 2 DeepSeek-MoE models (Base and Chat). In April 2024, they released 3 DeepSeek-Math models: Base, Instruct, and RL.
+DeepSeek-V2 was released in May 2024. It offered performance for a low price, and became the catalyst for China's AI model price war. It was dubbed the "Pinduoduo of AI", and other Chinese tech giants such as ByteDance, Tencent, Baidu, and Alibaba cut the price of their AI models. Despite its low price, it was profitable compared to its money-losing rivals.
+In June 2024, the DeepSeek – Coder V2 series was released.
+
+DeepSeek V2.5 was released in September and updated in December 2024.
+On 20 November 2024, DeepSeek-R1-Lite-Preview became accessible via API and chat.
+In December 2024, they released a base model DeepSeek – V3-Base and a chat model DeepSeek-V3. 
+On 20 January 2025, DeepSeek released its first free chatbot app, based on the DeepSeek-R1 model, for iOS and Android; by 27 January, DeepSeek had surpassed ChatGPT as the most downloaded free app on the iOS App Store in the United States, causing Nvidia's share price to drop by 18%.
+
+
+== Strategy ==
+DeepSeek is focused on research and has not detailed plans for commercialization. This allows its technology to avoid the most stringent provisions of China's AI regulations, such as requiring consumer-facing technology to comply with government controls on information.
+DeepSeek's hiring preferences target technical abilities rather than work experience; most new hires are either recent university graduates or developers whose AI careers are less established. Likewise, the company recruits individuals without any computer science background to help its technology understand more knowledge areas, such as poetry and China's notoriously difficult college admissions exams (Gaokao).
+
+
+== Training framework ==
+High-Flyer/DeepSeek operates at least two computing clusters, Fire-Flyer (萤火一号) and Fire-Flyer 2 (萤火二号). Fire-Flyer 2 consists of co-designed software and hardware architecture. On the hardware side, Nvidia GPUs use 200 Gbps interconnects. The cluster is divided into two "zones", and the platform supports cross-zone tasks. The network topology was two fat trees, chosen for high bisection bandwidth. On the software side are:
+
+3FS (Fire-Flyer File System): A distributed parallel file system, specifically designed for asynchronous random reads. It uses Direct I/O and RDMA Read. In contrast to standard Buffered I/O, Direct I/O does not cache data. Caching is useless for this case, since each data read is random, and isn't reused.
+hfreduce: Library for asynchronous communication, originally designed to replace Nvidia Collective Communication Library (NCCL). It is mainly used for allreduce, especially of gradients during backpropagation. It is asynchronously run on the CPU to avoid blocking kernels on the GPU. It uses two-tree broadcast like NCCL.
+hfai.nn: Software library of commonly used operators for neural network training, similar to torch.nn in PyTorch.
+HaiScale Distributed Data Parallel (DDP): Parallel training library that implements various forms of parallelism such as Data Parallelism (DP), Pipeline Parallelism (PP), Tensor Parallelism (TP), Experts Parallelism (EP), Fully Sharded Data Parallel (FSDP) and Zero Redundancy Optimizer (ZeRO). It is similar to PyTorch DDP, which uses NCCL on the backend.
+HAI Platform: Various applications such as task scheduling, fault handling, and disaster recovery.
+As of 2022, Fire-Flyer 2 had 5000 PCIe A100 GPUs in 625 nodes, each containing 8 GPUs. They later incorporated NVLinks and NCCL, to train larger models that required model parallelism.
+
+
+== Development and release history ==
+
+The first DeepSeek models were essentially the same as Llama, which were dense decoder-only Transformers. Later models incorporated Mixture of Experts, and then multi-head latent attention.
+A decoder-only Transformer consists of multiple identical decoder layers. Each of these layers features two main components: an attention layer and a FeedForward network (FFN) layer. In the attention layer, the traditional multi-head attention mechanism has been enhanced with multi-head latent attention. This update introduces compressed latent vectors to boost performance and reduce memory usage during inference.
+Meanwhile, the FFN layer adopts a variant of the mixture of experts (MoE) approach, effectively doubling the number of experts compared to standard implementations. It distinguishes between two types of experts: shared experts, which are always active to encapsulate general knowledge, and routed experts, where only a select few are activated to capture specialized information.
+
+
+== Overview of models ==
+
+
+=== DeepSeek Coder ===
+DeepSeek Coder is a series of 8 models, 4 pretrained (Base) and 4 instruction-finetuned (Instruct). They all have 16K context lengths. The code for the model was made open-source under the MIT License, with an additional license agreement ("DeepSeek license") regarding "open and responsible downstream usage" for the model.
+The training program was:
+
+Pretraining: 1.8T tokens (87% source code, 10% code-related English (GitHub markdown and Stack Exchange), and 3% code-unrelated Chinese).
+Long-context pretraining: 200B tokens. This extends the context length from 4K to 16K. This produced the Base models.
+Supervised finetuning (SFT): 2B tokens of instruction data. This produced the Instruct models.
+They were trained on clusters of A100 and H800 Nvidia GPUs, connected by InfiniBand, NVLink, NVSwitch.
+
+
+=== DeepSeek-LLM ===
+The DeepSeek-LLM series was released in November 2023. It has 7B and 67B parameters in both Base and Chat forms. The accompanying paper claimed benchmark results higher than most open source LLMs at the time, especially Llama 2.: section 5  The model code was under MIT license, with DeepSeek license for the model itself.
+The architecture was essentially the same as the Llama series. They used the pre-norm decoder-only Transformer with RMSNorm as the normalization, SwiGLU in the feedforward layers, rotary positional embedding (RoPE), and grouped-query attention (GQA). Both had vocabulary size 102,400 (byte-level BPE) and context length of 4096. They trained on 2 trillion tokens of English and Chinese text obtained by deduplicating the Common Crawl.
+
+The Chat versions of the two Base models was released concurrently, obtained by training Base by supervised finetuning (SFT) followed by direct policy optimization (DPO).
+
+
+==== MoE ====
+DeepSeek-MoE models (Base and Chat), each have 16B parameters (2.7B activated per token, 4K context length). The training was essentially the same as DeepSeek-LLM 7B, and was trained on a part of its training dataset. They claimed performance comparable to a 16B MoE as a 7B non-MoE. It is a variant of the standard sparsely-gated MoE, with "shared experts" that are always queried, and "routed experts" that might not be. They found this to help with expert balancing. In standard MoE, some experts can become overused, while others are rarely used, wasting space. Attempting to balance expert usage causes experts to replicate the same capacity. They proposed the shared experts to learn core capacities that are often used, and let the routed experts learn peripheral capacities that are rarely used.
+
+
+==== Math ====
+DeepSeek-Math includes 3 models: Base, Instruct, and RL. Math was trained as follows:
+
+Initialize with a previously pretrained DeepSeek-Coder Base v1.5 7B.
+Further pretrain with 500B tokens (6% DeepSeekMath Corpus, 4% AlgebraicStack, 10% arXiv, 20% GitHub code, 10% Common Crawl). This produced Base.
+Train an instruction-following model by SFT Base with 776K math problems and tool-use-integrated step-by-step solutions. This produced Instruct.
+Reinforcement learning (RL): The reward model was a process reward model (PRM) trained from Base according to the Math-Shepherd method. This reward model was then used to train Instruct using Group Relative Policy Optimization (GRPO) on a dataset of 144K math questions "related to GSM8K and MATH". The reward model was continuously updated during training to avoid reward hacking. This resulted in RL.
+
+
+=== V2 ===
+
+In May 2024, DeepSeek released the DeepSeek-V2 series. The series includes 4 models, 2 base models (DeepSeek-V2, DeepSeek-V2 Lite) and 2 chatbots (Chat). The two larger models were trained as follows:
+
+Pretrain on a dataset of 8.1T tokens, using 12% more Chinese tokens than English ones.
+Extend context length from 4K to 128K using YaRN. This resulted in DeepSeek-V2.
+SFT with 1.2M instances for helpfulness and 0.3M for safety. This resulted in Chat SFT, which was not released.
+RL using GRPO in two stages. The first stage was trained to solve math and coding problems. This stage used 1 reward model, trained on compiler feedback (for coding) and ground-truth labels (for math). The second stage was trained to be helpful, safe, and follow rules. This stage used 3 reward models. The helpfulness and safety reward models were trained on human preference data. The rule-based reward model was manually programmed. All trained reward models were initialized from Chat (SFT). This resulted in the released version of Chat.
+They opted for 2-staged RL, because they found that RL on reasoning data had "unique characteristics" different from RL on general data. For example, RL on reasoning could improve over more training steps.
+The two V2-Lite models were smaller, and trained similarly. DeepSeek – V2 Lite-Chat underwent only SFT, not RL. They trained the Lite version to help "further research and development on MLA and DeepSeekMoE".
+Architecturally, the V2 models were significantly different from the DeepSeek LLM series. They changed the standard attention mechanism by a low-rank approximation called multi-head latent attention (MLA), and used the previously published mixture of experts (MoE) variant.
+
+The Financial Times reported that it was cheaper than its peers with a price of 2 RMB for every million output tokens. The University of Waterloo Tiger Lab's leaderboard ranked DeepSeek-V2 seventh on its LLM ranking.
+The DeepSeek-Coder V2 series included V2-Base, V2-Lite-Base, V2-Instruct, and V20-Lite-Instruct.. Training:
+
+Base models were initialized from corresponding intermediate checkpoints after pretraining on 4.2T tokens (not the version at the end of pretraining), then pretrained further for 6T tokens, then context-extended to 128K context length.
+DeepSeek-Coder and DeepSeek-Math were used to generate 20K code-related and 30K math-related instruction data, then combined with an instruction dataset of 300M tokens. This was used for SFT.
+RL with GRPO. The reward for math problems was computed by comparing with the ground-truth label. The reward for code problems was generated by a reward model trained to predict whether a program would pass the unit tests.
+DeepSeek-V2.5 was made by combining DeepSeek-V2-Chat and DeepSeek-Coder-V2-Instruct.
+
+
+=== V3 ===
+
+DeepSeek-V3-Base and DeepSeek-V3 (a chat model) use essentially the same architecture as V2 with the addition of multi-token prediction, which (optionally) decodes extra tokens faster but less accurately. Training:
+
+Pretraining on 14.8T tokens of a multilingual corpus, mostly English and Chinese. It contained a higher ratio of math and programming than the pretraining dataset of V2.
+Extend context length twice, from 4K to 32K and then to 128K, using YaRN. This produced DeepSeek-V3-Base.
+SFT for 2 epochs on 1.5M samples of reasoning (math, programming, logic) and non-reasoning (creative writing, roleplay, simple question answering) data. Reasoning data was generated by "expert models". Non-reasoning data was generated by DeepSeek-V2.5 and checked by humans.
+The "expert models" were trained by starting with an unspecified base model, then SFT on both <problem, original response> data, and synthetic <system prompt, prompt, problem, R1 response> data generated by an internal DeepSeek-R1-Lite model. The system prompt asked R1 to reflect and verify during thinking. Then the expert models were RL using an undisclosed reward function.
+Each expert model was trained to generate just synthetic reasoning data in one specific domain (math, programming, logic).
+Expert models were used instead of R1 itself, since the output from R1 itself suffered "overthinking, poor formatting, and excessive length".
+Model-based reward models were made by starting with a SFT checkpoint of V3, then finetuning on human preference data containing both final reward and chain-of-thought leading to the final reward. The reward model produced reward signals for both questions with objective but free-form answers, and questions without objective answers (such as creative writing).
+An SFT checkpoint of V3 was trained by GRPO using both reward models and rule-based reward. The rule-based reward was computed for math problems with a final answer (put in a box), and for programming problems by unit tests. This produced DeepSeek-V3.
+
+The DeepSeek team performed extensive low-level engineering to improve efficiency. They used mixed-precision arithmetic. Much of the forward pass was performed in 8-bit floating point numbers (5E2M: 5-bit exponent and 2-bit mantissa) rather than the standard 32-bit, requiring special GEMM routines to accumulate accurately. They used a custom 12-bit float (E5M6) only for the inputs to the linear layers after the attention modules. Optimizer states were in 16-bit (BF16). They minimized communication latency by extensively overlapping computation and communication, such as dedicating 20 streaming multiprocessors out of 132 per H800 for only inter-GPU communication. They lowered communication by rearranging (every 10 minutes) the exact machine each expert was on so as to avoid querying certain machines more often than others, adding auxiliary load-balancing losses to the training loss function, and other load-balancing techniques.
+After training, it was deployed on H800 clusters. The H800 cards within a cluster were connected by NVLink, and the clusters were connected by InfiniBand.
+
+Benchmark tests show that V3 outperformed Llama 3.1 and Qwen 2.5 while matching GPT-4o and Claude 3.5 Sonnet.
+
+
+=== R1 ===
+
+DeepSeek-R1-Lite-Preview was trained for logical inference, mathematical reasoning, and real-time problem-solving. DeepSeek claimed that it exceeded performance of OpenAI o1 on benchmarks such as American Invitational Mathematics Examination (AIME) and MATH. However, The Wall Street Journal reported that on 15 problems from the 2024 edition of AIME, the o1 model reached a solution faster.
+DeepSeek-R1 and DeepSeek-R1-Zero were initialized from DeepSeek-V3-Base and share its architecture. DeepSeek-R1-Distill models were instead initialized from other pretrained open-weight models, including LLaMA and Qwen, then fine-tuned on synthetic data generated by R1.
+
+DeepSeek-R1-Zero was trained exclusively using GRPO RL without SFT. Unlike previous versions, it used no model-based reward. All reward functions were rule-based, "mainly" of two types (other types were not specified): accuracy rewards and format rewards. Accuracy reward was checking whether a boxed answer is correct (for math) or whether a code passes tests (for programming). Format reward was checking whether the model puts its thinking trace within a <think>...</think> tag.
+R1-Zero has issues with readability and mixing languages. R1 was trained to address these issues and further improve reasoning:
+
+SFT DeepSeek-V3-Base on "thousands" of "cold-start" data all with the standard format of |special_token|<reasoning_process>|special_token|<summary>, designed to improve model output readability.
+Apply the same GRPO RL process as R1-Zero, adding a "language consistency reward" to encourage it to respond monolingually. This produced an un released internal model.
+Synthesize 600K reasoning data from the internal model, with rejection sampling (i.e. if the generated reasoning had a wrong final answer, then it is removed). Synthesize 200K non-reasoning data (writing, factual QA, self-cognition, translation) using DeepSeek-V3.
+SFT DeepSeek-V3-Base on the 800K synthetic data for 2 epochs.
+Apply the same GRPO RL process as R1-Zero with rule-based reward (for reasoning tasks), but also model-based reward (for non-reasoning tasks, helpfulness, and harmlessness). This produced DeepSeek-R1.
+Distilled models were trained by SFT on 800K data synthesized from DeepSeek-R1, in a similar way as step 3. They were not trained with RL.
+
+
+== Impacts ==
+
+
+=== Financial markets ===
+On January 25, 2025, Jeffrey Emanuel published the blog post “The Short Case for Nvidia Stock” on his personal blog, hosted on YouTubeTranscriptOptimizer. The post offered a pointed critique of Nvidia’s valuation and highlighted emerging disruptive technologies, particularly the breakthroughs in DeepSeek’s AI models, DeepSeek-V3 and DeepSeek-R1. These models were touted for their high compute efficiency and lower operating costs, painting a vivid picture of potential market disruption.
+Within hours, the blog post began circulating widely across social media platforms such as Reddit and X, as well as trading forums. Influential figures such as Chamath Palihapitiya and Naval Ravikant shared the post, amplifying its reach. By January 26, hedge funds and algorithmic trading systems began shorting Nvidia stock, interpreting DeepSeek’s advancements as a serious threat to Nvidia’s high-margin data-center dominance.
+On January 27, Nvidia’s stock price plummeted by 12.5% at market open, eventually wiping out nearly $600 billion in market capitalization by the end of the day—one of the largest market‐cap drops in history. Bloomberg and other financial outlets attributed the decline to the bearish analysis in Emanuel’s blog post and the competitive threat posed by DeepSeek models for their improved computational performance, particularly effective in inference tasks. Automated trading systems and investor panic further amplified the downward momentum.
+This rapid sequence of events—spanning just a few days—reveals the significant effect in financial markets: a single incisive blog post, amplified by discussions of game-changing technologies like the DeepSeek models, triggered a cascade of reactions that redefined investor sentiment and led to substantial stock price changes.
+
+
+== See also ==
+Artificial intelligence industry in China
+OpenAI
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Official website 
+DeepSeek on GitHub
+DeepSeek on Hugging Face
+Official API documentation
+Anthology of DeepSeek papers
+Research blog of High-Flyer
