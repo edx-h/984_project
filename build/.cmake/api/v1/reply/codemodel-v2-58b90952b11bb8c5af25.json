@@ -295,22 +295,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "compressor::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-compressor-Debug-136193081dd8cf4277a9.json",
+					"jsonFile" : "target-compressor-Debug-98100a14d3b5e3e110fe.json",
 					"name" : "compressor",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "cpu::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cpu-Debug-e5999c96c44ea799c3b0.json",
-					"name" : "cpu",
+					"id" : "compressor_upgrade::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compressor_upgrade-Debug-4a9ac190314c090ce49a.json",
+					"name" : "compressor_upgrade",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "cuda::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cuda-Debug-a994bbb01944788c241d.json",
-					"name" : "cuda",
+					"id" : "cpu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpu-Debug-6f898e3618435e812981.json",
+					"name" : "cpu",
 					"projectIndex" : 0
 				}
 			]

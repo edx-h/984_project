@@ -1,6 +1,6 @@
-/root/gpu_db/984_project/build/CMakeFiles/cuda.dir
 /root/gpu_db/984_project/build/CMakeFiles/compressor.dir
 /root/gpu_db/984_project/build/CMakeFiles/cpu.dir
+/root/gpu_db/984_project/build/CMakeFiles/compressor_upgrade.dir
 /root/gpu_db/984_project/build/CMakeFiles/Experimental.dir
 /root/gpu_db/984_project/build/CMakeFiles/Nightly.dir
 /root/gpu_db/984_project/build/CMakeFiles/Continuous.dir

@@ -147,19 +147,6 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named cuda
-
-# Build rule for target.
-cuda: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cuda
-.PHONY : cuda
-
-# fast build rule for target.
-cuda/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cuda.dir/build.make CMakeFiles/cuda.dir/build
-.PHONY : cuda/fast
-
-#=============================================================================
 # Target rules for targets named compressor
 
 # Build rule for target.
@@ -184,6 +171,19 @@ cpu: cmake_check_build_system
 cpu/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpu.dir/build.make CMakeFiles/cpu.dir/build
 .PHONY : cpu/fast
+
+#=============================================================================
+# Target rules for targets named compressor_upgrade
+
+# Build rule for target.
+compressor_upgrade: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 compressor_upgrade
+.PHONY : compressor_upgrade
+
+# fast build rule for target.
+compressor_upgrade/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/compressor_upgrade.dir/build.make CMakeFiles/compressor_upgrade.dir/build
+.PHONY : compressor_upgrade/fast
 
 #=============================================================================
 # Target rules for targets named Experimental
@@ -549,30 +549,6 @@ ContinuousSubmit/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ContinuousSubmit.dir/build.make CMakeFiles/ContinuousSubmit.dir/build
 .PHONY : ContinuousSubmit/fast
 
-comp/algorithm_executable.o: comp/algorithm_executable.cu.o
-.PHONY : comp/algorithm_executable.o
-
-# target to build an object file
-comp/algorithm_executable.cu.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cuda.dir/build.make CMakeFiles/cuda.dir/comp/algorithm_executable.cu.o
-.PHONY : comp/algorithm_executable.cu.o
-
-comp/algorithm_executable.i: comp/algorithm_executable.cu.i
-.PHONY : comp/algorithm_executable.i
-
-# target to preprocess a source file
-comp/algorithm_executable.cu.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cuda.dir/build.make CMakeFiles/cuda.dir/comp/algorithm_executable.cu.i
-.PHONY : comp/algorithm_executable.cu.i
-
-comp/algorithm_executable.s: comp/algorithm_executable.cu.s
-.PHONY : comp/algorithm_executable.s
-
-# target to generate assembly for a file
-comp/algorithm_executable.cu.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cuda.dir/build.make CMakeFiles/cuda.dir/comp/algorithm_executable.cu.s
-.PHONY : comp/algorithm_executable.cu.s
-
 comp/compressor.o: comp/compressor.cu.o
 .PHONY : comp/compressor.o
 
@@ -596,6 +572,30 @@ comp/compressor.s: comp/compressor.cu.s
 comp/compressor.cu.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/compressor.dir/build.make CMakeFiles/compressor.dir/comp/compressor.cu.s
 .PHONY : comp/compressor.cu.s
+
+comp/compressor_upgrade.o: comp/compressor_upgrade.cu.o
+.PHONY : comp/compressor_upgrade.o
+
+# target to build an object file
+comp/compressor_upgrade.cu.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/compressor_upgrade.dir/build.make CMakeFiles/compressor_upgrade.dir/comp/compressor_upgrade.cu.o
+.PHONY : comp/compressor_upgrade.cu.o
+
+comp/compressor_upgrade.i: comp/compressor_upgrade.cu.i
+.PHONY : comp/compressor_upgrade.i
+
+# target to preprocess a source file
+comp/compressor_upgrade.cu.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/compressor_upgrade.dir/build.make CMakeFiles/compressor_upgrade.dir/comp/compressor_upgrade.cu.i
+.PHONY : comp/compressor_upgrade.cu.i
+
+comp/compressor_upgrade.s: comp/compressor_upgrade.cu.s
+.PHONY : comp/compressor_upgrade.s
+
+# target to generate assembly for a file
+comp/compressor_upgrade.cu.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/compressor_upgrade.dir/build.make CMakeFiles/compressor_upgrade.dir/comp/compressor_upgrade.cu.s
+.PHONY : comp/compressor_upgrade.cu.s
 
 comp/cpu.o: comp/cpu.cpp.o
 .PHONY : comp/cpu.o
@@ -661,14 +661,14 @@ help:
 	@echo "... NightlyTest"
 	@echo "... NightlyUpdate"
 	@echo "... compressor"
+	@echo "... compressor_upgrade"
 	@echo "... cpu"
-	@echo "... cuda"
-	@echo "... comp/algorithm_executable.o"
-	@echo "... comp/algorithm_executable.i"
-	@echo "... comp/algorithm_executable.s"
 	@echo "... comp/compressor.o"
 	@echo "... comp/compressor.i"
 	@echo "... comp/compressor.s"
+	@echo "... comp/compressor_upgrade.o"
+	@echo "... comp/compressor_upgrade.i"
+	@echo "... comp/compressor_upgrade.s"
 	@echo "... comp/cpu.o"
 	@echo "... comp/cpu.i"
 	@echo "... comp/cpu.s"

@@ -1,5 +1,0 @@
-==PROF== Connected to process 71197 (/root/gpu_db/984_project/build/compressor)
-==ERROR== ERR_NVGPUCTRPERM - The user does not have permission to access NVIDIA GPU Performance Counters on the target device 0. For instructions on enabling permissions and to get more information see https://developer.nvidia.com/ERR_NVGPUCTRPERM
-==PROF== Disconnected from process 71197
-==WARNING== No kernels were profiled.
-==WARNING== Profiling kernels launched by child processes requires the --target-processes all option.

@@ -4,9 +4,9 @@ set(SRC_PATH ${PROJECT_SOURCE_DIR}/comp)
 file(GLOB_RECURSE SRC_FILES "${SRC_PATH}/*.cu")
 # 打印调试信息
 message(STATUS "Source files: ${SRC_FILES}")
-add_executable(cuda "${SRC_PATH}/algorithm_executable.cu")
 add_executable(compressor "${SRC_PATH}/compressor.cu")
 add_executable(cpu "${SRC_PATH}/cpu.cpp")
+add_executable(compressor_upgrade "${SRC_PATH}/compressor_upgrade.cu")
 include(CTest)
 enable_testing()
 
